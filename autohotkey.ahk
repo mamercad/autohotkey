@@ -3,3 +3,5 @@ Capslock::Ctrl
 ^]::^Tab
 ^[::^+Tab
 XButton1::Send #{tab}
+WheelUp::WheelDown
+WheelDown::WheelUp
